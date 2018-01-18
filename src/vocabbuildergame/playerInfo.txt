@@ -1,0 +1,4 @@
+fistname,surname,username,password,games played,score
+george,kidd,george12,dog23,23,11
+max,nethercott,maxim,nethercott,5,25
+test,tester,testy,testy,61,61
